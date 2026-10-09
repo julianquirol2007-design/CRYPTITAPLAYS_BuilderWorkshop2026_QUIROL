@@ -119,7 +119,6 @@ export default function ProfileCard({ portfolio, isOrbiting = false }: ProfileCa
           </span>
           Flip
         </button>
-        <WorkshopBugs motionLocked={motionLocked} />
       </div>
     </div>
   );
